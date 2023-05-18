@@ -1,0 +1,494 @@
+[
+    {
+        "merged": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-merged_res-38:/drawable-xxxhdpi_baseline_keyboard_arrow_down_24.png.flat",
+        "source": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-pngs-33:/drawable-xxxhdpi/baseline_keyboard_arrow_down_24.png"
+    },
+    {
+        "merged": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-merged_res-38:/drawable-hdpi_m_login.png.flat",
+        "source": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-pngs-33:/drawable-hdpi/m_login.png"
+    },
+    {
+        "merged": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-merged_res-38:/drawable-anydpi-v21_baseline_add_24.xml.flat",
+        "source": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-pngs-33:/drawable-anydpi-v21/baseline_add_24.xml"
+    },
+    {
+        "merged": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-merged_res-38:/drawable-xxhdpi_baseline_picture_as_pdf_24.png.flat",
+        "source": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-pngs-33:/drawable-xxhdpi/baseline_picture_as_pdf_24.png"
+    },
+    {
+        "merged": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-merged_res-38:/drawable_books.png.flat",
+        "source": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-main-40:/drawable/books.png"
+    },
+    {
+        "merged": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-merged_res-38:/drawable-hdpi_baseline_arrow_back_24.png.flat",
+        "source": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-pngs-33:/drawable-hdpi/baseline_arrow_back_24.png"
+    },
+    {
+        "merged": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-merged_res-38:/drawable-anydpi-v21_baseline_delete_24.xml.flat",
+        "source": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-pngs-33:/drawable-anydpi-v21/baseline_delete_24.xml"
+    },
+    {
+        "merged": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-merged_res-38:/drawable-xxxhdpi_baseline_delete_24.png.flat",
+        "source": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-pngs-33:/drawable-xxxhdpi/baseline_delete_24.png"
+    },
+    {
+        "merged": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-merged_res-38:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-main-40:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-merged_res-38:/drawable-xxhdpi_m_login.png.flat",
+        "source": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-pngs-33:/drawable-xxhdpi/m_login.png"
+    },
+    {
+        "merged": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-merged_res-38:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-main-40:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-merged_res-38:/drawable-ldpi_baseline_attach_file_24.png.flat",
+        "source": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-pngs-33:/drawable-ldpi/baseline_attach_file_24.png"
+    },
+    {
+        "merged": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-merged_res-38:/drawable_rid.jpeg.flat",
+        "source": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-main-40:/drawable/rid.jpeg"
+    },
+    {
+        "merged": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-merged_res-38:/drawable-mdpi_baseline_picture_as_pdf_24.png.flat",
+        "source": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-pngs-33:/drawable-mdpi/baseline_picture_as_pdf_24.png"
+    },
+    {
+        "merged": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-merged_res-38:/drawable-ldpi_baseline_search.png.flat",
+        "source": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-pngs-33:/drawable-ldpi/baseline_search.png"
+    },
+    {
+        "merged": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-merged_res-38:/drawable-xhdpi_baseline_attach_file_24.png.flat",
+        "source": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-pngs-33:/drawable-xhdpi/baseline_attach_file_24.png"
+    },
+    {
+        "merged": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-merged_res-38:/drawable-xxxhdpi_baseline_add_24.png.flat",
+        "source": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-pngs-33:/drawable-xxxhdpi/baseline_add_24.png"
+    },
+    {
+        "merged": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-merged_res-38:/layout_activity_pdf_list.xml.flat",
+        "source": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-main-40:/layout/activity_pdf_list.xml"
+    },
+    {
+        "merged": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-merged_res-38:/drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-pngs-33:/drawable-ldpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-merged_res-38:/drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-pngs-33:/drawable-anydpi-v21/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-merged_res-38:/drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-pngs-33:/drawable-xxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-merged_res-38:/layout_activity_pdfadd.xml.flat",
+        "source": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-main-40:/layout/activity_pdfadd.xml"
+    },
+    {
+        "merged": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-merged_res-38:/drawable-xxxhdpi_baseline_arrow_back_24.png.flat",
+        "source": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-pngs-33:/drawable-xxxhdpi/baseline_arrow_back_24.png"
+    },
+    {
+        "merged": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-merged_res-38:/layout_activity_add_category.xml.flat",
+        "source": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-main-40:/layout/activity_add_category.xml"
+    },
+    {
+        "merged": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-merged_res-38:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-main-40:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-merged_res-38:/drawable-xhdpi_baseline_arrow_back_24.png.flat",
+        "source": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-pngs-33:/drawable-xhdpi/baseline_arrow_back_24.png"
+    },
+    {
+        "merged": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-merged_res-38:/drawable-ldpi_baseline_keyboard_arrow_down_24.png.flat",
+        "source": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-pngs-33:/drawable-ldpi/baseline_keyboard_arrow_down_24.png"
+    },
+    {
+        "merged": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-merged_res-38:/drawable-xxxhdpi_baseline_attach_file_24.png.flat",
+        "source": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-pngs-33:/drawable-xxxhdpi/baseline_attach_file_24.png"
+    },
+    {
+        "merged": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-merged_res-38:/drawable_bk.png.flat",
+        "source": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-main-40:/drawable/bk.png"
+    },
+    {
+        "merged": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-merged_res-38:/drawable-anydpi-v21_baseline_attach_file_24.xml.flat",
+        "source": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-pngs-33:/drawable-anydpi-v21/baseline_attach_file_24.xml"
+    },
+    {
+        "merged": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-merged_res-38:/drawable-hdpi_baseline_add_24.png.flat",
+        "source": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-pngs-33:/drawable-hdpi/baseline_add_24.png"
+    },
+    {
+        "merged": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-merged_res-38:/drawable-xxhdpi_baseline_attach_file_24.png.flat",
+        "source": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-pngs-33:/drawable-xxhdpi/baseline_attach_file_24.png"
+    },
+    {
+        "merged": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-merged_res-38:/drawable-xxhdpi_baseline_keyboard_arrow_down_24.png.flat",
+        "source": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-pngs-33:/drawable-xxhdpi/baseline_keyboard_arrow_down_24.png"
+    },
+    {
+        "merged": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-merged_res-38:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-main-40:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.mymusicproject.app-merged_res-38:/layout_activity_login.xml.flat",
+        "source": "com.example.mymusicproject.app-main-40:/layout/activity_login.xml"
+    },
+    {
+        "merged": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-merged_res-38:/drawable-mdpi_baseline_category_24.png.flat",
+        "source": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-pngs-33:/drawable-mdpi/baseline_category_24.png"
+    },
+    {
+        "merged": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-merged_res-38:/layout_row_category.xml.flat",
+        "source": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-main-40:/layout/row_category.xml"
+    },
+    {
+        "merged": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-merged_res-38:/drawable-hdpi_baseline_attach_file_24.png.flat",
+        "source": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-pngs-33:/drawable-hdpi/baseline_attach_file_24.png"
+    },
+    {
+        "merged": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-merged_res-38:/drawable-xhdpi_baseline_category_24.png.flat",
+        "source": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-pngs-33:/drawable-xhdpi/baseline_category_24.png"
+    },
+    {
+        "merged": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-merged_res-38:/drawable-anydpi-v21_baseline_person_pin_24.xml.flat",
+        "source": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-pngs-33:/drawable-anydpi-v21/baseline_person_pin_24.xml"
+    },
+    {
+        "merged": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-merged_res-38:/layout_activity_login.xml.flat",
+        "source": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-main-40:/layout/activity_login.xml"
+    },
+    {
+        "merged": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-merged_res-38:/drawable-hdpi_baseline_category_24.png.flat",
+        "source": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-pngs-33:/drawable-hdpi/baseline_category_24.png"
+    },
+    {
+        "merged": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-merged_res-38:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-main-40:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.mymusicproject.app-merged_res-38:/layout_activity_dashboard_user.xml.flat",
+        "source": "com.example.mymusicproject.app-main-40:/layout/activity_dashboard_user.xml"
+    },
+    {
+        "merged": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-merged_res-38:/drawable-xxhdpi_baseline_search.png.flat",
+        "source": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-pngs-33:/drawable-xxhdpi/baseline_search.png"
+    },
+    {
+        "merged": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-merged_res-38:/drawable_signup.png.flat",
+        "source": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-main-40:/drawable/signup.png"
+    },
+    {
+        "merged": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-merged_res-38:/drawable-xhdpi_m_login.png.flat",
+        "source": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-pngs-33:/drawable-xhdpi/m_login.png"
+    },
+    {
+        "merged": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-merged_res-38:/drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-pngs-33:/drawable-xxxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-merged_res-38:/drawable-xxhdpi_baseline_person_pin_24.png.flat",
+        "source": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-pngs-33:/drawable-xxhdpi/baseline_person_pin_24.png"
+    },
+    {
+        "merged": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-merged_res-38:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-main-40:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-merged_res-38:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-main-40:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-merged_res-38:/drawable-anydpi-v21_baseline_search.xml.flat",
+        "source": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-pngs-33:/drawable-anydpi-v21/baseline_search.xml"
+    },
+    {
+        "merged": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-merged_res-38:/drawable-hdpi_baseline_delete_24.png.flat",
+        "source": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-pngs-33:/drawable-hdpi/baseline_delete_24.png"
+    },
+    {
+        "merged": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-merged_res-38:/drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-pngs-33:/drawable-xhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-merged_res-38:/drawable-mdpi_baseline_search.png.flat",
+        "source": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-pngs-33:/drawable-mdpi/baseline_search.png"
+    },
+    {
+        "merged": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-merged_res-38:/drawable-mdpi_baseline_keyboard_arrow_down_24.png.flat",
+        "source": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-pngs-33:/drawable-mdpi/baseline_keyboard_arrow_down_24.png"
+    },
+    {
+        "merged": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-merged_res-38:/drawable-hdpi_baseline_picture_as_pdf_24.png.flat",
+        "source": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-pngs-33:/drawable-hdpi/baseline_picture_as_pdf_24.png"
+    },
+    {
+        "merged": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-merged_res-38:/drawable-anydpi-v21_baseline_keyboard_arrow_down_24.xml.flat",
+        "source": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-pngs-33:/drawable-anydpi-v21/baseline_keyboard_arrow_down_24.xml"
+    },
+    {
+        "merged": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-merged_res-38:/layout_activity_main.xml.flat",
+        "source": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-main-40:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-merged_res-38:/drawable-xhdpi_baseline_delete_24.png.flat",
+        "source": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-pngs-33:/drawable-xhdpi/baseline_delete_24.png"
+    },
+    {
+        "merged": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-merged_res-38:/drawable-ldpi_baseline_add_24.png.flat",
+        "source": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-pngs-33:/drawable-ldpi/baseline_add_24.png"
+    },
+    {
+        "merged": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-merged_res-38:/drawable_main.png.flat",
+        "source": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-main-40:/drawable/main.png"
+    },
+    {
+        "merged": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-merged_res-38:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-main-40:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-merged_res-38:/drawable-anydpi-v21_baseline_category_24.xml.flat",
+        "source": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-pngs-33:/drawable-anydpi-v21/baseline_category_24.xml"
+    },
+    {
+        "merged": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-merged_res-38:/drawable-xhdpi_baseline_person_pin_24.png.flat",
+        "source": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-pngs-33:/drawable-xhdpi/baseline_person_pin_24.png"
+    },
+    {
+        "merged": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-merged_res-38:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-main-40:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-merged_res-38:/drawable-xxxhdpi_baseline_search.png.flat",
+        "source": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-pngs-33:/drawable-xxxhdpi/baseline_search.png"
+    },
+    {
+        "merged": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-merged_res-38:/drawable-mdpi_baseline_add_24.png.flat",
+        "source": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-pngs-33:/drawable-mdpi/baseline_add_24.png"
+    },
+    {
+        "merged": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-merged_res-38:/drawable_group.png.flat",
+        "source": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-main-40:/drawable/group.png"
+    },
+    {
+        "merged": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-merged_res-38:/drawable_hand.png.flat",
+        "source": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-main-40:/drawable/hand.png"
+    },
+    {
+        "merged": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-merged_res-38:/drawable-xhdpi_baseline_keyboard_arrow_down_24.png.flat",
+        "source": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-pngs-33:/drawable-xhdpi/baseline_keyboard_arrow_down_24.png"
+    },
+    {
+        "merged": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-merged_res-38:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-main-40:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-merged_res-38:/drawable-xxxhdpi_baseline_person_pin_24.png.flat",
+        "source": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-pngs-33:/drawable-xxxhdpi/baseline_person_pin_24.png"
+    },
+    {
+        "merged": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-merged_res-38:/drawable-xxhdpi_baseline_category_24.png.flat",
+        "source": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-pngs-33:/drawable-xxhdpi/baseline_category_24.png"
+    },
+    {
+        "merged": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-merged_res-38:/drawable-xxhdpi_baseline_add_24.png.flat",
+        "source": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-pngs-33:/drawable-xxhdpi/baseline_add_24.png"
+    },
+    {
+        "merged": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-merged_res-38:/drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-pngs-33:/drawable-hdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-merged_res-38:/drawable-ldpi_m_login.png.flat",
+        "source": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-pngs-33:/drawable-ldpi/m_login.png"
+    },
+    {
+        "merged": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-merged_res-38:/drawable-ldpi_baseline_person_pin_24.png.flat",
+        "source": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-pngs-33:/drawable-ldpi/baseline_person_pin_24.png"
+    },
+    {
+        "merged": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-merged_res-38:/drawable-xxxhdpi_m_login.png.flat",
+        "source": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-pngs-33:/drawable-xxxhdpi/m_login.png"
+    },
+    {
+        "merged": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-merged_res-38:/layout_row_pdf_admin.xml.flat",
+        "source": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-main-40:/layout/row_pdf_admin.xml"
+    },
+    {
+        "merged": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-merged_res-38:/drawable-xhdpi_baseline_picture_as_pdf_24.png.flat",
+        "source": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-pngs-33:/drawable-xhdpi/baseline_picture_as_pdf_24.png"
+    },
+    {
+        "merged": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-merged_res-38:/xml_backup_rules.xml.flat",
+        "source": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-main-40:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-merged_res-38:/drawable_phone.jpeg.flat",
+        "source": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-main-40:/drawable/phone.jpeg"
+    },
+    {
+        "merged": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-merged_res-38:/layout_activity_signup.xml.flat",
+        "source": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-main-40:/layout/activity_signup.xml"
+    },
+    {
+        "merged": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-merged_res-38:/drawable_purple_button.xml.flat",
+        "source": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-main-40:/drawable/purple_button.xml"
+    },
+    {
+        "merged": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-merged_res-38:/drawable_page.png.flat",
+        "source": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-main-40:/drawable/page.png"
+    },
+    {
+        "merged": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-merged_res-38:/drawable-mdpi_baseline_person_pin_24.png.flat",
+        "source": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-pngs-33:/drawable-mdpi/baseline_person_pin_24.png"
+    },
+    {
+        "merged": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-merged_res-38:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-main-40:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-merged_res-38:/drawable-mdpi_m_login.png.flat",
+        "source": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-pngs-33:/drawable-mdpi/m_login.png"
+    },
+    {
+        "merged": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-merged_res-38:/drawable-mdpi_baseline_delete_24.png.flat",
+        "source": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-pngs-33:/drawable-mdpi/baseline_delete_24.png"
+    },
+    {
+        "merged": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-merged_res-38:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-pngs-33:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-merged_res-38:/layout_activity_splash.xml.flat",
+        "source": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-main-40:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-merged_res-38:/drawable-xxxhdpi_baseline_category_24.png.flat",
+        "source": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-pngs-33:/drawable-xxxhdpi/baseline_category_24.png"
+    },
+    {
+        "merged": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-merged_res-38:/drawable-ldpi_baseline_picture_as_pdf_24.png.flat",
+        "source": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-pngs-33:/drawable-ldpi/baseline_picture_as_pdf_24.png"
+    },
+    {
+        "merged": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-merged_res-38:/layout_activity_dashboard_user.xml.flat",
+        "source": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-main-40:/layout/activity_dashboard_user.xml"
+    },
+    {
+        "merged": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-merged_res-38:/drawable_shape_toolbar02.xml.flat",
+        "source": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-main-40:/drawable/shape_toolbar02.xml"
+    },
+    {
+        "merged": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-merged_res-38:/layout_activity_main2.xml.flat",
+        "source": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-main-40:/layout/activity_main2.xml"
+    },
+    {
+        "merged": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-merged_res-38:/drawable-mdpi_baseline_attach_file_24.png.flat",
+        "source": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-pngs-33:/drawable-mdpi/baseline_attach_file_24.png"
+    },
+    {
+        "merged": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-merged_res-38:/drawable-xxhdpi_baseline_delete_24.png.flat",
+        "source": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-pngs-33:/drawable-xxhdpi/baseline_delete_24.png"
+    },
+    {
+        "merged": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-merged_res-38:/drawable-mdpi_baseline_arrow_back_24.png.flat",
+        "source": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-pngs-33:/drawable-mdpi/baseline_arrow_back_24.png"
+    },
+    {
+        "merged": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-merged_res-38:/drawable-xhdpi_baseline_add_24.png.flat",
+        "source": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-pngs-33:/drawable-xhdpi/baseline_add_24.png"
+    },
+    {
+        "merged": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-merged_res-38:/layout_activity_dashboard_admin.xml.flat",
+        "source": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-main-40:/layout/activity_dashboard_admin.xml"
+    },
+    {
+        "merged": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-merged_res-38:/drawable-ldpi_baseline_delete_24.png.flat",
+        "source": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-pngs-33:/drawable-ldpi/baseline_delete_24.png"
+    },
+    {
+        "merged": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-merged_res-38:/drawable-xxxhdpi_baseline_picture_as_pdf_24.png.flat",
+        "source": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-pngs-33:/drawable-xxxhdpi/baseline_picture_as_pdf_24.png"
+    },
+    {
+        "merged": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-merged_res-38:/drawable-xhdpi_baseline_search.png.flat",
+        "source": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-pngs-33:/drawable-xhdpi/baseline_search.png"
+    },
+    {
+        "merged": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-merged_res-38:/drawable_book.jpeg.flat",
+        "source": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-main-40:/drawable/book.jpeg"
+    },
+    {
+        "merged": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-merged_res-38:/xml_data_extraction_rules.xml.flat",
+        "source": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-main-40:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-merged_res-38:/drawable-anydpi-v21_baseline_arrow_back_24.xml.flat",
+        "source": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-pngs-33:/drawable-anydpi-v21/baseline_arrow_back_24.xml"
+    },
+    {
+        "merged": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-merged_res-38:/mipmap-anydpi-v33_ic_launcher.xml.flat",
+        "source": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-main-40:/mipmap-anydpi-v33/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-merged_res-38:/drawable-hdpi_baseline_keyboard_arrow_down_24.png.flat",
+        "source": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-pngs-33:/drawable-hdpi/baseline_keyboard_arrow_down_24.png"
+    },
+    {
+        "merged": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-merged_res-38:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-main-40:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-merged_res-38:/drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-pngs-33:/drawable-mdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-merged_res-38:/drawable-anydpi-v21_baseline_picture_as_pdf_24.xml.flat",
+        "source": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-pngs-33:/drawable-anydpi-v21/baseline_picture_as_pdf_24.xml"
+    },
+    {
+        "merged": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-merged_res-38:/drawable_admin.png.flat",
+        "source": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-main-40:/drawable/admin.png"
+    },
+    {
+        "merged": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-merged_res-38:/drawable-xxhdpi_baseline_arrow_back_24.png.flat",
+        "source": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-pngs-33:/drawable-xxhdpi/baseline_arrow_back_24.png"
+    },
+    {
+        "merged": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-merged_res-38:/drawable-hdpi_baseline_search.png.flat",
+        "source": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-pngs-33:/drawable-hdpi/baseline_search.png"
+    },
+    {
+        "merged": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-merged_res-38:/drawable-ldpi_baseline_category_24.png.flat",
+        "source": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-pngs-33:/drawable-ldpi/baseline_category_24.png"
+    },
+    {
+        "merged": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-merged_res-38:/drawable_circles.png.flat",
+        "source": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-main-40:/drawable/circles.png"
+    },
+    {
+        "merged": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-merged_res-38:/drawable-hdpi_baseline_person_pin_24.png.flat",
+        "source": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-pngs-33:/drawable-hdpi/baseline_person_pin_24.png"
+    },
+    {
+        "merged": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-merged_res-38:/drawable-ldpi_baseline_arrow_back_24.png.flat",
+        "source": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-pngs-33:/drawable-ldpi/baseline_arrow_back_24.png"
+    },
+    {
+        "merged": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-merged_res-38:/layout_activity_verification.xml.flat",
+        "source": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-main-40:/layout/activity_verification.xml"
+    },
+    {
+        "merged": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-merged_res-38:/drawable-anydpi-v21_m_login.xml.flat",
+        "source": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-pngs-33:/drawable-anydpi-v21/m_login.xml"
+    },
+    {
+        "merged": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-merged_res-38:/layout_activity_intro.xml.flat",
+        "source": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-main-40:/layout/activity_intro.xml"
+    }
+]

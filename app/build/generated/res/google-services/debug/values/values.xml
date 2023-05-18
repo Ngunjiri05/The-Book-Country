@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">116248950837-ikirs0tq2gg6qv7rr3o4dbamcmockv7o.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">116248950837</string>
+    <string name="google_api_key" translatable="false">AIzaSyCZw1CPjiNA2hfA6eI8ZfN2Gqzjbws8Tus</string>
+    <string name="google_app_id" translatable="false">1:116248950837:android:edd5c7a25918178c3dd97c</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCZw1CPjiNA2hfA6eI8ZfN2Gqzjbws8Tus</string>
+    <string name="google_storage_bucket" translatable="false">music-warehouse-fea96.appspot.com</string>
+    <string name="project_id" translatable="false">music-warehouse-fea96</string>
+</resources>

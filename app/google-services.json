@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "116248950837",
+    "project_id": "music-warehouse-fea96",
+    "storage_bucket": "music-warehouse-fea96.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116248950837:android:edd5c7a25918178c3dd97c",
+        "android_client_info": {
+          "package_name": "com.example.mymusicproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116248950837-ikirs0tq2gg6qv7rr3o4dbamcmockv7o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZw1CPjiNA2hfA6eI8ZfN2Gqzjbws8Tus"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "116248950837-ikirs0tq2gg6qv7rr3o4dbamcmockv7o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

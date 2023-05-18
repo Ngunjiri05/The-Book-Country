@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.mymusicproject.app-mergeDebugResources-36:/values-es-rES/values-es-rES.xml",
+            "map": [
+                {
+                    "source": "/home/sylvia/.gradle/caches/transforms-3/f96e4b57fd7713dabab76018bcff9e1f/transformed/jetified-facebook-android-sdk-4.0.1/res/values-es-rES/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "185",
+                        "endColumns": "61",
+                        "endOffsets": "242"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "61",
+                        "endOffsets": "112"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="140dp"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_marginBottom="5dp"
+    app:cardCornerRadius="5dp"
+    app:contentPadding="5dp"
+    app:cardElevation="5dp"
+    >
+    <RelativeLayout
+               android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <RelativeLayout
+            android:id="@+id/mPdfrl"
+            android:layout_width="100dp"
+            android:layout_height="140dp"
+            android:layout_marginEnd="5dp"
+            android:background="@color/grey">
+        <com.github.barteksc.pdfviewer.PDFView
+            android:id="@+id/pdfView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+
+        <ProgressBar
+            android:id="@+id/Progressbar"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_alignTop="@+id/pdfView"
+            android:layout_marginTop="2dp" />
+        </RelativeLayout>
+
+        <TextView
+            android:layout_toStartOf="@id/mBtnMore"
+            android:id="@+id/mEdttex"
+            android:layout_width="239dp"
+            android:layout_height="54dp"
+            android:layout_toEndOf="@id/mPdfrl"
+            android:ellipsize="end"
+            android:hint="The Book Title"
+            android:maxLines="1"
+            android:textColor="@color/black"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/mEdtdes"
+            android:layout_width="288dp"
+            android:layout_height="96dp"
+            android:layout_below="@id/mEdttex"
+            android:layout_alignParentBottom="true"
+            android:layout_marginStart="13dp"
+            android:layout_marginTop="-20dp"
+            android:layout_toEndOf="@id/mPdfrl"
+            android:ellipsize="end"
+            android:hint="Enter Book Description"
+            android:maxLines="4"
+            android:textColor="@color/black"
+            android:textColorHint="@color/black" />
+
+        <TextView
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentEnd="true"
+            android:maxLines="1"
+            android:id="@+id/mEdtcat"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Category" />
+
+
+        <TextView
+            android:layout_alignParentBottom="true"
+            android:layout_toEndOf="@id/mPdfrl"
+            android:maxLines="1"
+            android:id="@+id/mEdtsize"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="15Mb" />
+
+        <TextView
+            android:layout_alignParentBottom="true"
+            android:layout_toStartOf="@id/mEdtcat"
+            android:textAlignment="center"
+            android:layout_toEndOf="@id/mEdtsize"
+            android:maxLines="1"
+
+            android:id="@+id/mEdtDate"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="dd/mm/yy" />
+
+
+        <ImageButton
+            android:id="@+id/mBtnMore"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:background="@android:color/transparent"
+            android:minWidth="48dp"
+            android:minHeight="48dp"
+            android:padding="5dp"
+            android:src="@drawable/baseline_more_vert_24"
+            tools:ignore="SpeakableTextPresentCheck" />
+
+
+
+    </RelativeLayout>
+
+</androidx.cardview.widget.CardView>

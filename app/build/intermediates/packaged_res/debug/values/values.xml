@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="blue">#084D93</color>
+    <color name="grey">#E1DEE6</color>
+    <color name="purple">#441A5A</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">My Book Country</string>
+    <string name="default_web_client_id" translatable="false">116248950837-ikirs0tq2gg6qv7rr3o4dbamcmockv7o.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">116248950837</string>
+    <string name="google_api_key" translatable="false">AIzaSyCZw1CPjiNA2hfA6eI8ZfN2Gqzjbws8Tus</string>
+    <string name="google_app_id" translatable="false">1:116248950837:android:edd5c7a25918178c3dd97c</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCZw1CPjiNA2hfA6eI8ZfN2Gqzjbws8Tus</string>
+    <string name="google_storage_bucket" translatable="false">music-warehouse-fea96.appspot.com</string>
+    <string name="project_id" translatable="false">music-warehouse-fea96</string>
+    <style name="Theme.MyMusicProject" parent="Theme.AppCompat.Light.NoActionBar">
+        
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryDark">@color/purple_700</item>
+        <item name="colorAccent">@color/teal_200</item>
+        
+        <item name="android:windowIsTranslucent">true</item>
+    </style>
+</resources>

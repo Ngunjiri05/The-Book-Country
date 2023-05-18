@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-mergeDebugResources-37:/layout/activity_dashboard_user.xml",
+        "source": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-main-40:/layout/activity_dashboard_user.xml"
+    },
+    {
+        "merged": "com.example.mymusicproject.app-mergeDebugResources-37:/layout/activity_login.xml",
+        "source": "com.example.mymusicproject.app-main-40:/layout/activity_login.xml"
+    },
+    {
+        "merged": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-mergeDebugResources-37:/layout/activity_signup.xml",
+        "source": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-main-40:/layout/activity_signup.xml"
+    },
+    {
+        "merged": "com.example.mymusicproject.app-mergeDebugResources-37:/layout/activity_dashboard_user.xml",
+        "source": "com.example.mymusicproject.app-main-40:/layout/activity_dashboard_user.xml"
+    },
+    {
+        "merged": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-mergeDebugResources-37:/layout/row_category.xml",
+        "source": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-main-40:/layout/row_category.xml"
+    },
+    {
+        "merged": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-mergeDebugResources-37:/layout/activity_pdf_list.xml",
+        "source": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-main-40:/layout/activity_pdf_list.xml"
+    },
+    {
+        "merged": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-mergeDebugResources-37:/layout/activity_add_category.xml",
+        "source": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-main-40:/layout/activity_add_category.xml"
+    },
+    {
+        "merged": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-mergeDebugResources-37:/layout/activity_pdfadd.xml",
+        "source": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-main-40:/layout/activity_pdfadd.xml"
+    },
+    {
+        "merged": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-mergeDebugResources-37:/layout/activity_intro.xml",
+        "source": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-main-40:/layout/activity_intro.xml"
+    },
+    {
+        "merged": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-mergeDebugResources-37:/layout/activity_main2.xml",
+        "source": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-main-40:/layout/activity_main2.xml"
+    },
+    {
+        "merged": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-mergeDebugResources-37:/layout/activity_login.xml",
+        "source": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-main-40:/layout/activity_login.xml"
+    },
+    {
+        "merged": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-mergeDebugResources-37:/layout/row_pdf_admin.xml",
+        "source": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-main-40:/layout/row_pdf_admin.xml"
+    },
+    {
+        "merged": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-mergeDebugResources-37:/layout/activity_main.xml",
+        "source": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-main-40:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-mergeDebugResources-37:/layout/activity_splash.xml",
+        "source": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-main-40:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-mergeDebugResources-37:/layout/activity_verification.xml",
+        "source": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-main-40:/layout/activity_verification.xml"
+    },
+    {
+        "merged": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-mergeDebugResources-37:/layout/activity_dashboard_admin.xml",
+        "source": "/home/sylvia/.gradle/daemon/7.5/com.example.mymusicproject.app-main-40:/layout/activity_dashboard_admin.xml"
+    }
+]
